@@ -1,4 +1,4 @@
-About me ✍️
+<h1 align="center">About me ✍️</h1>
 <h3 align="center">A passionate android developer from Turkey</h3>
 
 Hello, I'm oguzhan. Since 2020, I continue to learn android working structure and programming concepts. I love writing code and researching. this is part of my work life and I enjoy it.
