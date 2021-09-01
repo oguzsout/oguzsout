@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oguzhan</h1>
 <h3 align="center">A passionate android developer from Turkey</h3>
 
+Hello, I'm oguzhan. Since 2020, I continue to learn android working structure and programming concepts. I love writing code and researching. this is part of my work life and I enjoy it.
+
 - 🌱 I’m currently learning **Kotlin programming language and Android working structure.**
 
 - 💬 Ask me about **Java,Kotlin or Android.**
