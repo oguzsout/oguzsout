@@ -21,7 +21,7 @@ Hello, I'm oguzhan. Since 2020, I continue to learn android working structure an
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzsout&theme=shades-of-purple&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzsout&theme=shades-of-purple)
 
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzsout&" alt="oguzsout"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzsout&theme=shades-of-purple" alt="oguzsout"/></p>
 
 
 
