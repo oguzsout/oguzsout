@@ -7,6 +7,8 @@ Hello, I'm oguzhan. Since 2020, I continue to learn android working structure an
 
 - 💬 Ask me about **Java,Kotlin or Android.**
 
+- 📚 For my articles **https://medium.com/@oguzsout**
+
 - 📫 How to reach me **oguzd494@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
