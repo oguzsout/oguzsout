@@ -10,6 +10,8 @@ Hello, I'm oguzhan. Since 2020, I continue to learn android working structure an
 - 📚 For my articles **https://medium.com/@oguzsout**
 
 - 📫 How to reach me **oguzd494@gmail.com**
+- <p align="left"><img src="https://komarev.com/ghpvc/?username=oguzsout&label=Profile%20views&color=0e75b6&style=flat"
+                     alt="oguzsout"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
