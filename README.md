@@ -23,7 +23,3 @@ Hello, I'm oguzhan. Since 2020, I continue to learn android working structure an
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzsout&bg_color=45,c94b4b,4b134f&title_color=ffffff&text_color=ffffff&icon_color=ffc500&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzsout&bg_color=45,c94b4b,4b134f&title_color=ffffff&text_color=ffffff&icon_color=ffc500)
 
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzsout&layout=default&bg_color=45,c94b4b,4b134f&title_color=ffffff&text_color=ffffff" alt="oguzsout"/></p>
-
-
-
