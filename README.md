@@ -13,7 +13,7 @@ Hello, I'm oguzhan. Since 2020, I continue to learn android working structure an
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  </p>
-</a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/oguzsout/DailyNews/assets/73955284/23feb9d1-7630-4595-b04b-e127c0c8fe46" alt="java" width="40" height="40"/> </a>  </p>
+</a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/oguzsout/DailyNews/assets/73955284/23feb9d1-7630-4595-b04b-e127c0c8fe46" alt="java" width="96" height="64"/> </a>  </p>
            
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzsout&" alt="oguzsout"/> 
