@@ -1,15 +1,20 @@
 <!-- About Me Section -->
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center" style="font-size: 32px;">🚀 About Me</h2>
 
-<p align="center">
+<p align="center" style="font-size: 22px;">
   <b>Android Developer</b>
 </p>
 
-<p align="center">
-  I'm <strong>Oguzhan</strong>, an Android developer passionate about building modern and performance-driven
-  <br>mobile applications. By writing clean and maintainable Kotlin code, I create solutions that prioritize 
-  <br>user experience. I am constantly improving myself by closely following the developments in mobile technologies.
+<p align="center" style="font-size: 20px;">
+  I'm <strong>Oguzhan</strong>, an <strong>Android Developer</strong> passionate about building 
+  <strong>modern</strong> and <strong>performance-driven</strong> mobile applications.
+  <br>
+  By writing <strong>clean</strong> and <strong>maintainable Kotlin</strong> code, I create solutions that prioritize
+  <strong>user experience</strong>.
+  <br>
+  I am constantly improving myself by closely following the developments in <strong>mobile technologies</strong>.
 </p>
+
 
 <div align="center">
   <a href="https://medium.com/@oguzhandogdu">
