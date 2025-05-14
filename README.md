@@ -45,7 +45,7 @@
 </div>
 
 <div align="center">
-  <p><i>🚀 <span style="color: #F85D7F;">Consistency fuels mastery.</span> I code every day to get better, one commit at a time!</i></p>
+  <p><i>🚀 <span style="color: #F85D7F;">We are what we do; perfection is a habit, not an action.</span> I code every day to get better, one commit at a time!</i></p>
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
