@@ -1,4 +1,4 @@
-
+<!-- About Me Section -->
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
@@ -13,13 +13,13 @@
 
 <div align="center">
   <a href="https://medium.com/@oguzhandogdu">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=flat-square" alt="Medium" />
   </a>
   <a href="mailto:oguzd494@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/oguzhandogdu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
   </a>
 </div>
 
@@ -35,21 +35,21 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=oguzsout&theme=tokyonight&hide_border=true&border_radius=16&short_numbers=true&mode=weekly" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=oguzsout&theme=buefy&hide_border=true&border_radius=16&short_numbers=true&mode=weekly" alt="GitHub Streak" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oguzsout&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oguzsout&show_icons=true&theme=buefy&hide_border=true&border_radius=16&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzsout&layout=compact&theme=tokyonight&hide_border=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzsout&layout=compact&theme=buefy&hide_border=true&border_radius=16" />
   </a>
 </div>
 
 <div align="center">
-  <p><i>🚀 Consistency fuels mastery. I code every day to get better, one commit at a time!</i></p>
+  <p><i>🚀 <span style="color: #F85D7F;">Consistency fuels mastery.</span> I code every day to get better, one commit at a time!</i></p>
 </div>
 
 <!-- Footer -->
