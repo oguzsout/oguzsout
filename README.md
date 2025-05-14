@@ -45,19 +45,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oguzsout&show_icons=true&theme=slateorange&hide_border=true&border_radius=16&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzsout&layout=compact&theme=slateorange&hide_border=true&border_radius=16" />
-  </a>
-</div>
-
-<div align="center">
   <p><i>🚀 <span style="color: #F85D7F;">Consistency fuels mastery.</span> I code every day to get better, one commit at a time!</i></p>
 </div>
-
-<!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
