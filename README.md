@@ -35,16 +35,16 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=oguzsout&theme=buefy&hide_border=true&border_radius=16&short_numbers=true&mode=weekly" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=oguzsout&theme=slateorange&hide_border=true&border_radius=16&short_numbers=true&mode=weekly" alt="GitHub Streak" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oguzsout&show_icons=true&theme=buefy&hide_border=true&border_radius=16&count_private=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oguzsout&show_icons=true&theme=slateorange&hide_border=true&border_radius=16&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzsout&layout=compact&theme=buefy&hide_border=true&border_radius=16" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzsout&layout=compact&theme=slateorange&hide_border=true&border_radius=16" />
   </a>
 </div>
 
